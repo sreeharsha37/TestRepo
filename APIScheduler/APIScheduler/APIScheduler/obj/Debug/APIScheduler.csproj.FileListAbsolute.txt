@@ -1,0 +1,10 @@
+C:\Aditya\API\APIScheduler\APIScheduler\bin\Debug\APIScheduler.exe.config
+C:\Aditya\API\APIScheduler\APIScheduler\bin\Debug\APIScheduler.exe
+C:\Aditya\API\APIScheduler\APIScheduler\bin\Debug\APIScheduler.pdb
+C:\Aditya\API\APIScheduler\APIScheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Aditya\API\APIScheduler\APIScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Aditya\API\APIScheduler\APIScheduler\obj\Debug\APIScheduler.csproj.CoreCompileInputs.cache
+C:\Aditya\API\APIScheduler\APIScheduler\obj\Debug\APIScheduler.csproj.CopyComplete
+C:\Aditya\API\APIScheduler\APIScheduler\obj\Debug\APIScheduler.exe
+C:\Aditya\API\APIScheduler\APIScheduler\obj\Debug\APIScheduler.pdb
+C:\Aditya\API\APIScheduler\APIScheduler\obj\Debug\APIScheduler.csprojAssemblyReference.cache
